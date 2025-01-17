@@ -6,14 +6,14 @@ Pond0x optimizer
 How To Use
 -----
 
-1. Modify script settings at the end of this file
+1. Modify script settings at the end of this file `pond0x-optimizer.js`
 2. Change Phantom wallet lock time to 8 hours
 3. Go to https://www.pond0x.com
 4. Wait until website is fully loaded
-5. Press your F12 keyboard key to show dev tools
-6. Copy and paste this javascript code in your in browser console
+5. Press your `F12` keyboard key to show dev tools
+6. Copy and paste this javascript code in your in `browser console`
 7. When Phantom dialog appear, confirm signing
-8. Close dev tools by press your F12 keyboard key again
+8. Close dev tools by press your `F12` keyboard key again
 9. Enjoy your fully automatic miner rig ;-)
 
 About Pond0x
@@ -25,9 +25,11 @@ All informations about Pond0x:
     - PondCoin - https://www.pondcoin.com
     - Linktree - https://linktr.ee/pond0x
 * Coins:
-    - $PNDC (Ethereum)  : 0x423f4e6138e475d85cf7ea071ac92097ed631eea
-    - $wPOND (Solana)   : 3JgFwoYV74f6LwWjQWnr3YDPFnmBdwQfNyubv99jqUoq
-    - $PORK: (Ethereum) : 0xb9f599ce614Feb2e1BBe58F180F370D05b39344E
+    - $PNDC `Ethereum`  : 0x423f4e6138e475d85cf7ea071ac92097ed631eea
+    - $wPOND `Solana`   : 3JgFwoYV74f6LwWjQWnr3YDPFnmBdwQfNyubv99jqUoq
+    - $PORK: `Ethereum` : 0xb9f599ce614Feb2e1BBe58F180F370D05b39344E
+* Documentations : 
+    - Guides, Information, and Issues - https://cary0x.github.io/
      
 Donations
 -----
