@@ -16,6 +16,17 @@ How To Use
 8. Close dev tools by press your `F12` keyboard key again
 9. Enjoy your fully automatic miner rig ;-)
 
+
+Settings
+-----
+Names | Types | Default | Descriptions
+--- | --- | --- | ---
+startTime | `Number` | 0 | Delay in seconds before first start
+runInterval | `Number` | 5 | Delay in seconds between each claim
+claimInterval | `Number` | 600 (5 minutes) | Delay in seconds between each successfull claims
+reloadInterval | `Number` | 5 | Delay in seconds between each page reloading depends of your device performance 
+noClaimMaxTime | `Number` | 1500 (25 minutes) | Time in seconds to force reload while no claim action appearing (stuck at 1.6m, connection error, miner updated...)
+
 About Pond0x
 -----
 All informations about Pond0x:
